@@ -109,4 +109,4 @@ android.support.design.widget.Snackbar.make($container$, $message$, Snackbar.LEN
 - http3.login : Login interceptor in HTTP3 (Works with retrofit to add login credentials in the services)
 ```java
 compile 'com.squareup.okhttp3:logging-interceptor:3.8.0'
-```java
+```
